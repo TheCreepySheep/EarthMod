@@ -1,0 +1,5 @@
+item.earthmod:Test.name=Just a test item
+item.earthmod:Test2.name=Test item 2
+tile.earthmod:blockTest=Test block
+tile.earthmod:blockCPost=Concrete Post
+itemGroup.earthmod=Earth Mod
