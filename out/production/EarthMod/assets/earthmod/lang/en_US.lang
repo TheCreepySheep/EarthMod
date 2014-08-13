@@ -5,9 +5,10 @@ itemGroup.earthmod=Earth Mod
 item.earthmod:Test.name=Just a test item
 item.earthmod:Test2.name=Test item 2
 item.earthmod:MixerSupport.name=Mixer support frame
-item.earthmod:MixerBowl.name=Mixing Bowl
-item.earthmod:MixerRotor.name=Rotor Axis
+item.earthmod:MixerBowl.name=Mixer Bowl
+item.earthmod:MixerRotor.name=Mixer Rotor Axis
 item.earthmod:MixerBlade.name=Mixer Blade
+item.earthmod:MixerPanel.name=Mixer Bowl Panel
 item.earthmod:IronRod.name=Iron rod
 
 //Blocks

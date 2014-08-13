@@ -13,6 +13,7 @@ public class ModItems
     public static final ItemEarth MixerBowl = new ItemMixerBowl();
     public static final ItemEarth MixerRotor = new ItemMixerRotor();
     public static final ItemEarth MixerBlade = new ItemMixerBlade();
+    public static final ItemEarth MixerPanel = new ItemMixerPanel();
     public static final ItemEarth IronRod = new ItemIronRod();
 
     public static void init()
@@ -23,6 +24,7 @@ public class ModItems
         GameRegistry.registerItem(MixerBowl, "MixerBowl");
         GameRegistry.registerItem(MixerRotor, "MixerRotor");
         GameRegistry.registerItem(MixerBlade, "MixerBlade");
+        GameRegistry.registerItem(MixerPanel, "Mixerpanel");
         GameRegistry.registerItem(IronRod, "IronRod");
     }
 }

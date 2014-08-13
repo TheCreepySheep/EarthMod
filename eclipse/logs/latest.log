@@ -1,8 +1,8 @@
-[21:47:57] [main/INFO]: Setting user: ForgeDevName
-[21:47:58] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:48:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth Mod
-[21:48:05] [Sound Library Loader/INFO]: Sound engine started
-[21:48:07] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/cementMixer.png
+[22:50:51] [main/INFO]: Setting user: ForgeDevName
+[22:50:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:50:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth Mod
+[22:50:59] [Sound Library Loader/INFO]: Sound engine started
+[22:51:01] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/cementMixer.png
 java.io.FileNotFoundException: earthmod:textures/blocks/cementMixer.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -32,7 +32,7 @@ java.io.FileNotFoundException: earthmod:textures/blocks/cementMixer.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:07] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/blockCPost.png
+[22:51:01] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/blockCPost.png
 java.io.FileNotFoundException: earthmod:textures/blocks/blockCPost.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -62,8 +62,8 @@ java.io.FileNotFoundException: earthmod:textures/blocks/blockCPost.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:48:07] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/items/MixerBowl.png
+[22:51:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:51:01] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/items/MixerBowl.png
 java.io.FileNotFoundException: earthmod:textures/items/MixerBowl.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -93,9 +93,9 @@ java.io.FileNotFoundException: earthmod:textures/items/MixerBowl.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:48:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth Mod
-[21:48:08] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/items/MixerBowl.png
+[22:51:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:51:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth Mod
+[22:51:02] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/items/MixerBowl.png
 java.io.FileNotFoundException: earthmod:textures/items/MixerBowl.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -128,8 +128,8 @@ java.io.FileNotFoundException: earthmod:textures/items/MixerBowl.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:48:08] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/cementMixer.png
+[22:51:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:51:02] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/cementMixer.png
 java.io.FileNotFoundException: earthmod:textures/blocks/cementMixer.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -162,7 +162,7 @@ java.io.FileNotFoundException: earthmod:textures/blocks/cementMixer.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:08] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/blockCPost.png
+[22:51:02] [Client thread/ERROR]: Using missing texture, unable to load earthmod:textures/blocks/blockCPost.png
 java.io.FileNotFoundException: earthmod:textures/blocks/blockCPost.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -195,22 +195,22 @@ java.io.FileNotFoundException: earthmod:textures/blocks/blockCPost.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[21:48:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:48:09] [Sound Library Loader/INFO]: Sound engine started
-[21:48:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:48:21] [Server thread/INFO]: Generating keypair
-[21:48:21] [Server thread/INFO]: Preparing start region for level 0
-[21:48:22] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:48:23] [Server thread/INFO]: ForgeDevName[local:E:af02ec51] logged in with entity id 189 at (-162.2147981735774, 9.0, 1684.7813361637195)
-[21:48:23] [Server thread/INFO]: ForgeDevName joined the game
-[21:52:29] [Server thread/INFO]: Saving and pausing game...
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/Overworld
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/Nether
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/The End
-[21:52:29] [Server thread/INFO]: Stopping server
-[21:52:29] [Server thread/INFO]: Saving players
-[21:52:29] [Server thread/INFO]: Saving worlds
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/Overworld
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/Nether
-[21:52:29] [Server thread/INFO]: Saving chunks for level 'Dev world'/The End
-[21:52:47] [Client thread/INFO]: Stopping!
+[22:51:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:51:03] [Sound Library Loader/INFO]: Sound engine started
+[22:51:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:51:26] [Server thread/INFO]: Generating keypair
+[22:51:26] [Server thread/INFO]: Preparing start region for level 0
+[22:51:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:51:27] [Server thread/INFO]: ForgeDevName[local:E:f8b75dd0] logged in with entity id 218 at (-178.81322004441174, 4.0, 1654.3121315369724)
+[22:51:27] [Server thread/INFO]: ForgeDevName joined the game
+[22:51:51] [Server thread/INFO]: Saving and pausing game...
+[22:51:51] [Server thread/INFO]: Saving chunks for level 'Dev world'/Overworld
+[22:51:51] [Server thread/INFO]: Saving chunks for level 'Dev world'/Nether
+[22:51:51] [Server thread/INFO]: Saving chunks for level 'Dev world'/The End
+[22:51:52] [Server thread/INFO]: Stopping server
+[22:51:52] [Server thread/INFO]: Saving players
+[22:51:52] [Server thread/INFO]: Saving worlds
+[22:51:52] [Server thread/INFO]: Saving chunks for level 'Dev world'/Overworld
+[22:51:52] [Server thread/INFO]: Saving chunks for level 'Dev world'/Nether
+[22:51:52] [Server thread/INFO]: Saving chunks for level 'Dev world'/The End
+[22:51:52] [Client thread/INFO]: Stopping!
