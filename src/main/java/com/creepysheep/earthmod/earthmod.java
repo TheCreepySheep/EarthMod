@@ -3,6 +3,7 @@ package com.creepysheep.earthmod;
 import com.creepysheep.earthmod.handler.ConfigurationHandler;
 import com.creepysheep.earthmod.init.ModBlocks;
 import com.creepysheep.earthmod.init.ModItems;
+import com.creepysheep.earthmod.init.Recipes;
 import com.creepysheep.earthmod.proxy.IProxy;
 import com.creepysheep.earthmod.reference.Reference;
 import com.creepysheep.earthmod.utility.LogHelper;
@@ -36,6 +37,7 @@ public class earthmod
     @Mod.EventHandler
     public void Init(FMLInitializationEvent event)
     {
+        Recipes.init();
         LogHelper.info("Initialization Complete!");
     }
 

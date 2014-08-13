@@ -1,5 +1,16 @@
+//Creative Tab
+itemGroup.earthmod=Earth Mod
+
+//Items
 item.earthmod:Test.name=Just a test item
 item.earthmod:Test2.name=Test item 2
+item.earthmod:MixerSupport.name=Mixer support frame
+item.earthmod:MixerBowl.name=Mixing Bowl
+item.earthmod:MixerRotor.name=Rotor Axis
+item.earthmod:MixerBlade.name=Mixer Blade
+item.earthmod:IronRod.name=Iron rod
+
+//Blocks
 tile.earthmod:blockTest=Test block
 tile.earthmod:blockCPost=Concrete Post
-itemGroup.earthmod=Earth Mod
+tile.earthmod:cementMixer=Cement Mixer
